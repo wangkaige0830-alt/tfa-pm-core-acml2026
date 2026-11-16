@@ -1,0 +1,3 @@
+# PyTorch version used for the component check.
+# Install a compatible mamba-ssm build separately for the full forward pass.
+torch==2.5.1
